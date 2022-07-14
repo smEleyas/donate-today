@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* heder section start */
+.container-design {
+    display: flex;
+}
+
+.header-banner {
+    background-image: url(images/military-distributes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.container1 {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.container1 h1 {
+    font-size: 60px;
+}
+
+.container1 p {
+    padding-bottom: 30px;
+    font-size: 20px;
+
+}
+
+.container1 a {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+/* heder section end */
